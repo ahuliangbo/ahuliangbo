@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Howdy!
+Hi, my name is [Alex Hu](www.linkedin.com/in/ahuliangbo), and I am currently studying Computer Science at UT Austin.
 
-<!--
-**ahuliangbo/ahuliangbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Outside of coding, I enjoy working out, dancing, and drawing pixel art.
 
-Here are some ideas to get you started:
+## 📍 What Am I Doing?
+  - **Technical Developer** @ [Freetail Hackers](https://freetailhackers.com/) 
+  - Working on [HackTX (Hackathon Website)](https://gitlab.com/freetail-hackers/hacktx-2024)
+  - [**Website**](https://ahuliangbo.github.io)
+  - [**LeetCode**](https://leetcode.com/u/FlabbyToes/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css&theme=dark)](https://skillicons.dev)
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,threejs&theme=dark)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,linux,unity,unreal,blender&theme=dark)](https://skillicons.dev)
