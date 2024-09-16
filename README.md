@@ -5,8 +5,7 @@ Outside of coding, I enjoy working out, dancing, and drawing pixel art.
 
 ## 📍 What Am I Doing?
   - **Technical Developer** @ [Freetail Hackers](https://freetailhackers.com/) 
-  - Working on [HackTX (Hackathon Website)](https://gitlab.com/freetail-hackers/hacktx-2024)
-  - and [Rodeo (Hackathon Backend)](https://gitlab.com/freetail-hackers/rodeo)
+  - Working on [HackTX (Hackathon Website)](https://gitlab.com/freetail-hackers/hacktx-2024) and [Rodeo (Hackathon Backend)](https://gitlab.com/freetail-hackers/rodeo)
   - [**Website**](https://ahuliangbo.github.io)
   - [**LeetCode**](https://leetcode.com/u/FlabbyToes/)
 
