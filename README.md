@@ -13,6 +13,6 @@ Outside of coding, I enjoy working out, dancing, and drawing pixel art.
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css&theme=dark)](https://skillicons.dev)
 ### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,threejs,svelte,prisma&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,threejs,svelte,prisma,vue&theme=dark)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,linux,unity,unreal,blender,vite,postgres&theme=dark)](https://skillicons.dev)
